@@ -1,0 +1,9 @@
+.app-header{
+    display: flex;
+}
+.custom-input{
+    width: 50%;
+}
+.blue-color{
+    background-color: aqua;
+}
